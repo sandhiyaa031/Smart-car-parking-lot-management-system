@@ -58,10 +58,3 @@ Based on the detected data, the system maintains accurate information about park
 
 ---
 
-## Project Status
-Completed
-
----
-
-## Author
-Sandhiya
